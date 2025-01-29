@@ -15,7 +15,7 @@ const Home = () => {
       <Hero 
         title="LE VOILE MA PUDEUR"
         description="Bienvenue sur notre site officiel qui pour mission de vous tenir informer de toutes nos activités."
-        backgroundImage="public/images/Hero image.jpg"
+        backgroundImage="images/Hero image.jpg"
         buttonText="Nous contacter"
         onContactClick={handleContactClick}
       />

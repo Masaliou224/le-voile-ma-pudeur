@@ -7,7 +7,7 @@ interface NosActivitésProps {
 
 const NosActivitésHero: React.FC<NosActivitésProps> = ({
   title = "Nos Activités",
-  backgroundImage = "public/images/Activité hero section.jpg"
+  backgroundImage = "images/Activité hero section.jpg"
 }) => { 
   return (
     <section className="relative h-[300px] w-full overflow-hidden">

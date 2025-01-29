@@ -7,7 +7,7 @@ interface QuiSommesNousProps {
 }
 
 const QuiSommesNous: React.FC<QuiSommesNousProps> = ({
-  image = "public/images/Activité hero section.jpg",
+  image = "images/Activité hero section.jpg",
   title = "Qui sommes nous?",
   onClick,
 }) => {

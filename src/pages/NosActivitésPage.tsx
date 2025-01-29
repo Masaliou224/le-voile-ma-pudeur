@@ -9,7 +9,7 @@ const NosActivités = () => {
     <div>
       <NosActivitésHero 
         title="Nos Activités"
-        backgroundImage="public/images/Activité hero section.jpg"
+        backgroundImage="images/Activité hero section.jpg"
       />
       <FormationSection />
       <SocialSection />

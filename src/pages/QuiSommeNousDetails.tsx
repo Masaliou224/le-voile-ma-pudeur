@@ -6,7 +6,7 @@ const QuiSommesNousDetails = () => {
     <div>
       <QuiSommesNous 
         title="Qui Sommes Nous?"
-        image="public/images/Activité hero section.jpg"
+        image="images/Activité hero section.jpg"
       />
       <Historique 
         contents={[
