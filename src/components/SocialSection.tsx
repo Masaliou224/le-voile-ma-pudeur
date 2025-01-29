@@ -21,7 +21,7 @@ const SocialSection = () => {
           {/* Image Section */}
           <div>
             <img 
-              src="public/images/Activité image.jpg" 
+              src="images/Activité image.jpg" 
               alt="Volet social image"
                className="w-2/3 h-full object-cover mx-auto"
             />

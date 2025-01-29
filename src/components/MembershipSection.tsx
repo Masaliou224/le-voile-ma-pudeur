@@ -5,7 +5,7 @@ const MembershipSection = () => {
         {/* Image Column */}
         <div className="relative">
           <img 
-            src="public/images/About image.jpg" 
+            src="images/About image.jpg" 
             alt="Activity image" 
             className="w-full h-auto object-cover rounded-lg shadow-lg transform translate-x-8"
           />

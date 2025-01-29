@@ -52,7 +52,7 @@ const ActivitéCulturelleSection = () => {
           "Discussion"
         ],
         eventDate: "2025-02-01",
-        image: "public/images/Evènement image 2.jpg",
+        image: "images/Evènement image 2.jpg",
         location: "Centre de conférence de Paris",
         registerLink: "https://example.com/forum-registration",
         speakers: [
@@ -78,7 +78,7 @@ const ActivitéCulturelleSection = () => {
         date: { year: "2024" },
         title: "Forum annuel de la femme musulmane | 2024",
         description: "Le forum de 2024 a réuni plus de 1000 participantes...",
-        image: "public/images/Image2.jpg",
+        image: "images/Image2.jpg",
         additionalDetails: [
           "Plus de 1000 participants",
           "Couverture médiatique nationale",
@@ -92,7 +92,7 @@ const ActivitéCulturelleSection = () => {
         date: { month: "JUIL", day: "15", year: "2025" },
         title: "Masterclass Leadership | 2025",
         description: "Une session intensive sur le développement personnel...",
-        image: "public/images/Formation image 2.jpg",
+        image: "images/Formation image 2.jpg",
         location: "Centre de formation",
         speakers: [
           {
@@ -114,7 +114,7 @@ const ActivitéCulturelleSection = () => {
         date: { month: "AOÛT", day: "10", year: "2025" },
         title: "Séminaire sur l'entrepreneuriat | 2025",
         description: "Découvrez les clés de la réussite entrepreneuriale...",
-        image: "public/images/Formation image.jpg",
+        image: "images/Formation image.jpg",
         location: "Ecole de commerce",
         speakers: [
           {
@@ -136,7 +136,7 @@ const ActivitéCulturelleSection = () => {
         date: { year: "2024" },
         title: "Sortie annuelle | 2024",
         description: "Une journée de détente et de partage...",
-        image: "public/images/Activité image.jpg",
+        image: "images/Activité image.jpg",
         location: "Parc de la ville",
         speakers: [
           {

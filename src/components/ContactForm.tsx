@@ -55,7 +55,7 @@ const ContactForm = () => {
     <div className="max-w-6xl mx-auto p-4 grid md:grid-cols-2 gap-4 mt-5">
       <div className="mb-6 mx-auto justify-center items-center">
         <h2 className="text-2xl text-center font-bold text-rose-600">A fin de nous rejoindre</h2>
-        <img src="public/images/Logo.jpg" alt="logo" className="w-2/3 mx-auto justify-center items-center"/>
+        <img src="images/Logo.jpg" alt="logo" className="w-2/3 mx-auto justify-center items-center"/>
         <p className="text-2xl text-center font-bold text-rose-600">remplissez ce formulaire</p>
       </div>
 

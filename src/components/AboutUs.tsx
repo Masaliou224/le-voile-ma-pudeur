@@ -17,7 +17,7 @@ const AboutUs: React.FC = () => {
       <div className="grid md:grid-cols-2 gap-8 items-center mb-12">
         <div className="md:pr-8">
           <img 
-            src="public/images/About image.jpg" 
+            src="images/About image.jpg" 
             alt="Activity image"
             className="rounded-lg w-full h-auto mt-8"
           />

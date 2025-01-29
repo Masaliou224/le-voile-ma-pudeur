@@ -51,19 +51,19 @@ const AboutSection: React.FC<AboutSectionProps> = ({
           <div className="relative">
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="public/images/Image2.jpg" 
+                src="images/Image2.jpg" 
                 alt="Organisation activities" 
                 className="rounded-lg object-cover w-full h-full"
               />
               <div className="grid gap-4">
                 <img 
-                  src="public/images/Image1.jpg" 
+                  src="images/Image1.jpg" 
                   alt="Organisation events" 
                   className="rounded-lg object-cover w-full"
                 />
             
                 <img 
-                  src="public/images/Activité image 2.jpg" 
+                  src="images/Activité image 2.jpg" 
                   alt="Organisation images" 
                   className="rounded-lg object-cover w-full"
                 />

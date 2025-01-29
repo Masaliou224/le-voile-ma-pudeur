@@ -9,7 +9,7 @@ const FormationSection = () => {
           {/* Image Section */}
           <div className="relative">
             <img 
-              src="public/images/Formation image 2.jpg" 
+              src="images/Formation image 2.jpg" 
               alt="Foramtion session"
               className="w-2/3 h-full object-cover mx-auto" 
             />

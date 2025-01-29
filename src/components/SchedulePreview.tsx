@@ -120,7 +120,7 @@ const SchedulePreview: React.FC = () => {
           title="LE FORUM ANNUEL DE LA FEMME MUSULMANE | 2025" 
           date={eventDate}
           description="Rejoignez-nous pour un événement extraordinaire qui rassemblera des femmes inspirantes du monde entier. Un moment de partage, d'apprentissage et de connexion."
-          image="public/images/Evènement image 2.jpg"
+          image="images/Evènement image 2.jpg"
           registerLink="#"
         />
       </div>

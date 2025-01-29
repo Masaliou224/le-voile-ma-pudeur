@@ -116,7 +116,7 @@ const EventDetails = ({
             {event.type === "upcoming" && event.eventDate ? (
               <div className="h-48 flex flex-col">
                 <img 
-                  src={event.image || "public/images/Image2.jpg"} 
+                  src={event.image || "images/Image2.jpg"} 
                   alt="Event" 
                   className="w-full h-48 object-cover rounded"
                 />
@@ -124,7 +124,7 @@ const EventDetails = ({
               </div>
             ) : (
               <img 
-                src={event.image || "public/images/Image2.jpg"} 
+                src={event.image || "images/Image2.jpg"} 
                 alt="Event" 
                 className="w-full h-48 object-cover rounded"
               />

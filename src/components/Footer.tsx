@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-white pt-16 pb-4">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <img src="public/images/Logo.jpg" alt="logo" className="h-16 w-auto mb-4" />
+          <img src="images/Logo.jpg" alt="logo" className="h-16 w-auto mb-4" />
           <div className="flex space-x-4">
             <a href="#" className="text-green-950 hover:opacity-80"><i className="fab fa-facebook"></i></a>
             <a href="#" className="text-green-950 hover:opacity-80"><i className="fab fa-twitter"></i></a>

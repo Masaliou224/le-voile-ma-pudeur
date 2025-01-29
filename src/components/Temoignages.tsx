@@ -3,17 +3,17 @@ const Temoignages = () => {
     {
       name: "Nom 1",
       message: "Le forum est dédié à la femme musulmane...",
-      image: "public/images/Témoignages 1.jpg"
+      image: "images/Témoignages 1.jpg"
     },
     {
       name: "Nom 2",
       message: "Le forum est dédié à la femme musulmane...",
-      image: "public/images/Témoignages 2.jpg"
+      image: "images/Témoignages 2.jpg"
     },
     {
       name: "Nom 3",
       message: "Le forum est dédié à la femme musulmane...",
-      image: "public/images/Témoignages 3.jpg"
+      image: "images/Témoignages 3.jpg"
     }
   ];
 
