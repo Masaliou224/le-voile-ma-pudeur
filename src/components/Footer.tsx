@@ -35,7 +35,7 @@ const Footer = () => {
       </div>
 
       <div className="bg-gray-800 pt-8 mt-8 border-t border-gray-200">
-        <p className="text-sm  text-center text-white">Copyright © {currentYear} - Le voile ma poigne Association.</p>
+        <p className="text-sm  text-center text-white">Copyright © {currentYear} - Le voile ma pudeur Association.</p>
       </div>
     </footer>
   );
